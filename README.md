@@ -1,0 +1,2 @@
+# Laravel_learn
+Laravelの基本的なコードを動かすリポジトリ
